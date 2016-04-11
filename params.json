@@ -1,0 +1,6 @@
+{
+  "name": "MyMindfulnessTool",
+  "tagline": "",
+  "body": "### Description\r\n\r\nIncremental / timer game of increasing complexity and options\r\n\r\n* Earliest level may be \"Count 10 breaths\" with a countdown timer of 1 minute before next action can be performed\r\n* May be repeated indefinitely for achievements points\r\n* May upgrade to new techniques (\"Perfect 10\" - visualize fully the numbers 1 - 10 as you count. At the end, you give feedback when your attention begins to falter.)\r\n* Many possible techniques, topics to meditate on, duration, mantras, sounds.\r\n* Charting of your progress\r\n* Increasing score with tongue-in-cheek titles to motivate user (Nirvana = -1 pt but your score increases from 0)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
